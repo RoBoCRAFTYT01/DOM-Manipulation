@@ -20,21 +20,25 @@ The HTML file provides various scenarios, and the JavaScript file contains code 
       ├── try.html     // Practice HTML file
 ```
 
+<br>
+
 ## Notes :
 
 > Install in you monitor vsCode and there extension like Live Server to test each code **.**
 > you can try with your self in [try.html](./learn/try.html) file into learn folder **.**
 
+<br>
+
 ## All Example with Element :
 
 **Example 1:** Change Text (Element 1) **.** <br>
-**Example 2:** Change Text with Button (Element 2) **.**
-**Example 3:** Toggle Text (Element 3) **.**
-**Example 4:** Change Image (Element 4) **.**
-**Example 5:** Work with Attributes (Element 5) **.**
-**Example 6:** Change Style (Element 6) **.**
-**Example 7:** Toggle Class (Element 7) **.**
-**Example 8:** Add and Remove Elements (Element 8) **.**
+**Example 2:** Change Text with Button (Element 2) **.** <br>
+**Example 3:** Toggle Text (Element 3) **.** <br>
+**Example 4:** Change Image (Element 4) **.** <br>
+**Example 5:** Work with Attributes (Element 5) **.** <br>
+**Example 6:** Change Style (Element 6) **.** <br>
+**Example 7:** Toggle Class (Element 7) **.** <br>
+**Example 8:** Add and Remove Elements (Element 8) **.** <br>
 
 ## Key Concepts :
 
@@ -61,7 +65,7 @@ The HTML file provides various scenarios, and the JavaScript file contains code 
 
 > Use `createElement`, `appendChild`, and `removeChild` to dynamically add or remove elements.
 
-
+<br>
 
 ## Resources :
 
