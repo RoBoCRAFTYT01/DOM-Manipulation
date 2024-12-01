@@ -1,0 +1,21 @@
+/*some css to link it with js*/
+
+.text {
+    color: blue;
+}
+
+.hide{
+    display: none;
+}
+
+.reSize {
+    width: 20%;
+}
+
+.red {
+    color: blue;
+}
+
+.change {
+    color: red;
+}
