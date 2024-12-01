@@ -27,7 +27,7 @@ The HTML file provides various scenarios, and the JavaScript file contains code 
 
 ## All Example with Element :
 
-**Example 1:** Change Text (Element 1) **.**
+**Example 1:** Change Text (Element 1) **.** \n
 **Example 2:** Change Text with Button (Element 2) **.**
 **Example 3:** Toggle Text (Element 3) **.**
 **Example 4:** Change Image (Element 4) **.**
