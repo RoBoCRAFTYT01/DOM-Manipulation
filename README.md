@@ -49,7 +49,7 @@ The HTML file provides various scenarios, and the JavaScript file contains code 
 
 ## Notes :
 
-> Install VS Code and extensions like Live Server to test each code. **.**
+> Install VS Code and extensions like Live Server to test each code. **.** <br>
 > You can try yourself in the [try.html](./learn/try.html) file in the TryWithYourSelf folder **.**
 
 <br>
